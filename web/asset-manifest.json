@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d2d6483e.css",
+    "main.js": "/static/js/main.f3d6926d.js",
+    "static/js/563.06ea37ba.chunk.js": "/static/js/563.06ea37ba.chunk.js",
+    "static/js/201.4109aacd.chunk.js": "/static/js/201.4109aacd.chunk.js",
+    "static/js/606.e47676d1.chunk.js": "/static/js/606.e47676d1.chunk.js",
+    "static/js/419.9bb7142b.chunk.js": "/static/js/419.9bb7142b.chunk.js",
+    "static/js/926.20a2eb9e.chunk.js": "/static/js/926.20a2eb9e.chunk.js",
+    "static/js/163.a6b9cdff.chunk.js": "/static/js/163.a6b9cdff.chunk.js",
+    "static/media/nopage.webp": "/static/media/nopage.baf417fc092b1fce9720.webp",
+    "static/media/portis.svg": "/static/media/portis.d571576bb0f6e0d6aeba6a3817b99395.svg",
+    "static/media/wallet.svg": "/static/media/wallet.1737262acdbeb5e489ce693fc25c3eac.svg",
+    "index.html": "/index.html",
+    "static/media/deam.svg": "/static/media/deam.19c6118d202238623532af2b37e9f3ea.svg",
+    "static/media/coinbase.svg": "/static/media/coinbase.53948c1fb006b855dbdc1dc911d00cc5.svg",
+    "static/media/torus.svg": "/static/media/torus.8ebd28304db10e562462afeead8b3348.svg",
+    "main.d2d6483e.css.map": "/static/css/main.d2d6483e.css.map",
+    "main.f3d6926d.js.map": "/static/js/main.f3d6926d.js.map",
+    "419.9bb7142b.chunk.js.map": "/static/js/419.9bb7142b.chunk.js.map",
+    "926.20a2eb9e.chunk.js.map": "/static/js/926.20a2eb9e.chunk.js.map",
+    "163.a6b9cdff.chunk.js.map": "/static/js/163.a6b9cdff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2d6483e.css",
+    "static/js/main.f3d6926d.js"
+  ]
+}
