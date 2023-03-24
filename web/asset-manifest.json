@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d2d6483e.css",
-    "main.js": "/static/js/main.f3d6926d.js",
+    "main.js": "/static/js/main.afe803dc.js",
     "static/js/563.06ea37ba.chunk.js": "/static/js/563.06ea37ba.chunk.js",
     "static/js/201.4109aacd.chunk.js": "/static/js/201.4109aacd.chunk.js",
     "static/js/606.e47676d1.chunk.js": "/static/js/606.e47676d1.chunk.js",
@@ -16,13 +16,13 @@
     "static/media/coinbase.svg": "/static/media/coinbase.53948c1fb006b855dbdc1dc911d00cc5.svg",
     "static/media/torus.svg": "/static/media/torus.8ebd28304db10e562462afeead8b3348.svg",
     "main.d2d6483e.css.map": "/static/css/main.d2d6483e.css.map",
-    "main.f3d6926d.js.map": "/static/js/main.f3d6926d.js.map",
+    "main.afe803dc.js.map": "/static/js/main.afe803dc.js.map",
     "419.9bb7142b.chunk.js.map": "/static/js/419.9bb7142b.chunk.js.map",
     "926.20a2eb9e.chunk.js.map": "/static/js/926.20a2eb9e.chunk.js.map",
     "163.a6b9cdff.chunk.js.map": "/static/js/163.a6b9cdff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d2d6483e.css",
-    "static/js/main.f3d6926d.js"
+    "static/js/main.afe803dc.js"
   ]
 }
